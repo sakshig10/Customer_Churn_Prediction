@@ -1,7 +1,7 @@
 # Telecom Customer Churn Prediction
 Binary Classification using Random Forest, XGBoost, DNN, KNN and Logistic Regression 
 
-PPT: https://www.canva.com/design/DAFgHti08HM/lI7NQptEkjwWiRsSwOpt4A/edit
+PPT: https://www.canva.com/design/DAFgHti08HM/lI7NQptEkjwWiRsSwOpt4A/edit?utm_content=DAFgHti08HM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Data source: https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset/data
 
