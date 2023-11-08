@@ -27,6 +27,6 @@ It can be utilized for data-driven decision-making for telecom customer manageme
 
 This project serves as a practical example of using machine learning to address a real-world problem and showcases the impact of predictive analytics on customer retention and company profitability.
 
-For detailed information and code implementation, please refer to the project's Jupyter notebooks and documentation.
+For detailed information and code implementation, please refer to the project's Jupyter notebooks and documentation/report.
 
 Feel free to explore the project's code and results to gain a deeper understanding of the analysis and findings.
