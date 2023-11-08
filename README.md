@@ -1,6 +1,8 @@
 # Telecom Customer Churn Prediction
 Binary Classification using Random Forest, XGBoost, DNN, KNN and Logistic Regression 
+
 PPT: https://www.canva.com/design/DAFgHti08HM/lI7NQptEkjwWiRsSwOpt4A/edit
+
 Data source: https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset/data
 
 ## Overview
@@ -20,7 +22,7 @@ Here are the key results and findings of our project:
 
 ## Impact of Project Outcome
 The outcomes of this project have several practical implications for telecom companies:
-- Improved Customer Retention: By accurately predicting customer churn, telecom companies can take proactive actions to retain customers, such as offering personalized incentives or better customer support.
+- Improved Customer Retention: By accurately predicting customer churn, telecom companies can take proactive actions to retain customers, such as offering personalized promotions or marketing strategies or better customer support.
 - Cost Reduction: Reducing customer churn can significantly lower the costs associated with acquiring new customers.
 - Data-Driven Decision Making: The project emphasizes the importance of data-driven decision-making in telecom customer management.
 
